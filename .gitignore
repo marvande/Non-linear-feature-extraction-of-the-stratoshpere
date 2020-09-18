@@ -5,6 +5,7 @@ __pycache__/
 
 #input data
 data/*
+env_python/*
 
 # C extensions
 *.so
