@@ -5,7 +5,7 @@ __pycache__/
 
 #input data
 data/*
-env_python/*
+pyenv/*
 
 # C extensions
 *.so
